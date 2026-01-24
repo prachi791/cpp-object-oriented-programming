@@ -16,13 +16,8 @@
 
 <p>
 
-This repository tracks my <b>active and ongoing practice</b> in
-
-<b>Object-Oriented Programming using C++</b>.
-
-I am focused on building <b>strong fundamentals</b> by writing clean,
-
-structured code and continuously improving it as I progress.
+This repository tracks my <b>active and ongoing practice</b> in <b>Object-Oriented Programming using C++</b>.
+I am focused on building <b>strong fundamentals</b> by writing clean, structured code and continuously improving it as I progress.
 
 </p>
 
@@ -34,13 +29,7 @@ structured code and continuously improving it as I progress.
 
 <p>
 
-My goal is to deeply understand how C++ programs are designed using
-
-classes and objects. This repository represents a <b>long-term learning
-
-journey</b>, where I focus on clarity, structure, and refinement rather
-
-than rushing through concepts.
+My goal is to deeply understand how C++ programs are designed using classes and objects. This repository represents a <b>long-term learning journey</b>, where I focus on clarity, structure, and refinement rather than rushing through concepts.
 
 </p>
 
@@ -56,9 +45,9 @@ This repository is my space to:</p>
 
 <br>
 
-<p>- Strengthen my understanding of \*\*classes, objects, and encapsulation\*\* </p>
+<p>- Strengthen my understanding of <b>classes, objects, and encapsulation</b> </p>
 
-<p>- Practice writing \*\*clear, readable, and well-structured code\*\* </p>
+<p>- Practice writing <b>clear, readable, and well-structured code</b> </p>
 
 <p>- Apply best practices instead of rushed or copy-paste solution</p>
 
@@ -66,29 +55,25 @@ This repository is my space to:</p>
 
 <h2>What you’ll find here</h2>
 
-
-
 <ul>
-
+  
 &nbsp; <li>Practical C++ programs based on core OOP concepts</li>
-
 &nbsp; <li>Code written with clean structure and clear intent</li>
-
 &nbsp; <li>Continuous refactoring as my understanding improves</li>
-
 &nbsp; <li>Learning aligned with modern C++ practices and the Microsoft C++ course series</li>
 
 </ul>
 
 
 
-<h2>Progress \& mindset</h2>
+
+<h2>Progress & mindset</h2>
 
 
 
 <p>
 
-This repository is actively updated to track my progress, revisit earlier code, and strengthen my problem-solving and design skills over time.
+-  This repository is actively updated to track my progress, revisit earlier code, and strengthen my problem-solving and design skills over time.
 
 </p>
 
