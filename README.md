@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p align="center"> 
 
 &nbsp; <b>Actively learning • Strong fundamentals • Long-term growth</b>
 
