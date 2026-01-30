@@ -1,7 +1,6 @@
 <h1 align="center">C++ Object-Oriented Programming</h1>
 
 
-
 <p align="center"> 
 
 &nbsp; <b>Actively learning • Strong fundamentals • Long-term growth</b>
